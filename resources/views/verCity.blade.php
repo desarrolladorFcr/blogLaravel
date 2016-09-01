@@ -37,5 +37,7 @@
 </table>
 
 {!!$paises->render()!!}
+
+@include('layouts.btnVolver')
 @endsection
 

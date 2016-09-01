@@ -72,6 +72,9 @@
 <form action="crear">
     <input type="submit" value="CREAR" class="btn-danger">
 </form>
+<br>
+<br>
+@include('layouts.btnVolver')
 
 @endsection
 

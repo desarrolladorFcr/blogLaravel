@@ -64,4 +64,5 @@
 <form action="/ciudades">
     <input type="submit" value="Mostrar ciudades" class="btn-success">
 </form>
+
 @endsection
