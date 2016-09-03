@@ -3,7 +3,7 @@
 @section('titulo', 'blogs')
 
 @section('content')
-
+@include('layouts.btnVolverInicio')
 <h1> <?php echo $titulo; ?></h1>
 
 <?php // print_r($blogs);die()?>
