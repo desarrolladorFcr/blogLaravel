@@ -1,0 +1,15 @@
+@media screen{
+
+    body{
+
+            font-size: 1em;
+        }
+}
+
+@media held{
+
+    body{
+
+            font-size: 1.3em;
+        }
+}
