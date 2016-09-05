@@ -1,15 +1,7 @@
-@media screen{
-
-    body{
-
-            font-size: 1.2em;
-        }
-}
-
 @media handheld{
 
     body{
 
-            font-size: 3em;
+            font-size: 300%;
         }
 }
